@@ -1,0 +1,15 @@
+[
+  {
+    "data": [
+      { "row": 3, "chair": 1 },
+      { "row": 3, "chair": 2 },
+      { "row": 3, "chair": 3 }
+    ]
+  },
+  {
+    "data": [
+      { "row": 2, "chair": 7 },
+      { "row": 2, "chair": 8 }
+    ]
+  }
+]
